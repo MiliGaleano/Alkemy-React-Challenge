@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const URL = 'https://superheroapi.com/api/'
+const URL = 'https://www.superheroapi.com/api.php/'
 const APIKEY = '1895113727309795/'
 
 export const getSuperhero = (id) => {
