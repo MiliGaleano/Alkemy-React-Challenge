@@ -1,3 +1,18 @@
+# Alkemy Challenge
+
+## The challenge
+
+Create a React App where users can put together a superhero team. Show individual and team stats using the info provided by superheroapi.
+
+### Built with
+
+- [React](https://reactjs.org/) - JS library
+- [Styled Components](https://styled-components.com/) - For styles
+- [Superhero API](https://superheroapi.com/) - For superhero info
+- [ReactCardFlip](https://github.com/AaronCCWong/react-card-flip) - For card animations
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
