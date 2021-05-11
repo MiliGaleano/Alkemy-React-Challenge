@@ -28,7 +28,6 @@ export const DivTeamCards = styled.div`
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    padding: 0 40px;
     margin-bottom: 50px;
 `;
 
